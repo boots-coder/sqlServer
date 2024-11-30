@@ -253,4 +253,4 @@
 
 ## 许可证
 
-该项目采用 MIT 许可证 - 请查看 [LICENSE](https://chatgpt.com/c/LICENSE) 文件以获取详细信息。
+该项目采用 MIT 许可证
